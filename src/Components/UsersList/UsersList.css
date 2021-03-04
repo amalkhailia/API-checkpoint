@@ -1,0 +1,8 @@
+.userList {
+    display: flex !important;
+    justify-content: space-between !important;
+    align-items: center !important;
+    text-align: center !important;
+    flex-wrap: wrap !important;
+    margin: 10%;
+}

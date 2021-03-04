@@ -1,0 +1,8 @@
+.card{
+    margin: 10%;
+    border-radius: 5% solid !important;
+}
+.card-body{
+    min-width: 70%;
+    min-height: 70%;
+}
